@@ -93,6 +93,6 @@ This project utilizes datasets from Kaggle. Special thanks to Kaggle for providi
 
 Feel free to reach out if you have any questions or suggestions!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/al-husseiniabdelaleem)
-- **GitHub**: [Your GitHub Profile](https://github.com/husseini2000)
+- **LinkedIn**: [Al-Husseini Abdelaleem](https://www.linkedin.com/in/al-husseiniabdelaleem)
+- **GitHub**: [husseini2000](https://github.com/husseini2000)
 
