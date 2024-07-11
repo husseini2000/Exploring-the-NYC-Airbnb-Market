@@ -53,15 +53,6 @@ We utilized three datasets from Kaggle for this analysis:
 
 This analysis provides valuable insights into the NYC Airbnb market, highlighting significant differences in prices and types of listings across boroughs. Future work could explore seasonal trends and the impact of external factors on Airbnb pricing.
 
-## Repository Structure
-
-|-- README.md
-|-- NYC_Airbnb_Analysis_EDA.ipynb
-|-- data
-|-- airbnb_last_review.csv
-|-- airbnb_price.csv
-|-- airbnb_room_type.xlsx
-
 ## How to Run
 
 1. Clone this repository:
